@@ -1,0 +1,331 @@
+{
+    "groups": [
+      {
+        "name": "Global",
+        "enabled": true,
+        "markets": [
+          {
+            "name": "Global",
+            "key": "global",
+            "languages": ["en"],
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "name": "North America",
+        "enabled": true,
+        "markets": [
+          {
+            "name": "Canada",
+            "key": "ca",
+            "languages": ["en", "fr"],
+            "enabled": true
+          },
+          {
+            "name": "US",
+            "key": "us",
+            "languages": ["enUS"],
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "name": "Latin America",
+        "markets": [
+          {
+            "name": "Argentina",
+            "key": "ar",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Brasil",
+            "key": "br",
+            "languages": ["en"]
+          },
+          {
+            "name": "Colombia",
+            "key": "co",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Mexico",
+            "key": "mx",
+            "languages": ["en"],
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "name": "Europe, Middle East and Africa",
+        "enabled": true,
+        "markets": [
+          {
+            "name": "Austria",
+            "key": "at",
+            "languages": ["de", "en"],
+            "enabled": true
+          },
+          {
+            "name": "Bulgaria",
+            "key": "bg",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Croatia",
+            "key": "hr",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Czech Republic",
+            "key": "cz",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Denmark",
+            "key": "dk",
+            "languages": ["en"]
+          },
+          {
+            "name": "Dubai",
+            "key": "ae",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Estonia",
+            "key": "ee",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Finland",
+            "key": "fi",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "France",
+            "key": "fr",
+            "languages": ["fr"],
+            "enabled": true
+          },
+          {
+            "name": "Germany",
+            "key": "de",
+            "languages": ["de"],
+            "enabled": true
+          },
+          {
+            "name": "Greece",
+            "key": "gr",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Hungary",
+            "key": "hu",
+            "languages": ["en"]
+          },
+          {
+            "name": "Ireland",
+            "key": "ie",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Israel",
+            "key": "il",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Italy",
+            "key": "it",
+            "languages": ["en"]
+          },
+          {
+            "name": "Kenya",
+            "key": "ke",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Latvia",
+            "key": "lv",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Lithuania",
+            "key": "lt",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Netherlands",
+            "key": "nl",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Norway",
+            "key": "no",
+            "languages": ["en"]
+          },
+          {
+            "name": "Poland",
+            "key": "pl",
+            "languages": ["en"]
+          },
+          {
+            "name": "Portugal",
+            "key": "pt",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Romania",
+            "key": "ro",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Russia",
+            "key": "ru",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Slovakia",
+            "key": "sk",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "South Africa",
+            "key": "za",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Spain",
+            "key": "es",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Sweden",
+            "key": "sv",
+            "languages": ["en"]
+          },
+          {
+            "name": "Switzerland",
+            "key": "ch",
+            "languages": ["en", "de"],
+            "enabled": true
+          },
+          {
+            "name": "Turkey",
+            "key": "tr",
+            "languages": ["en"]
+          },
+          {
+            "name": "United Kingdom",
+            "key": "gb",
+            "languages": ["en"],
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "name": "Asia Pacific",
+        "enabled": true,
+        "markets": [
+          {
+            "name": "Australia",
+            "key": "au",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "China",
+            "key": "cn",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Hong-Kong",
+            "key": "hk",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "India",
+            "key": "in",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Indonesia",
+            "key": "id",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Japan",
+            "key": "jp",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Malaysia",
+            "key": "my",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "New Zealand",
+            "key": "nz",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Philippines",
+            "key": "ph",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Singapore",
+            "key": "sg",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "South Korea",
+            "key": "kr",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Taiwan",
+            "key": "tw",
+            "languages": ["en"],
+            "enabled": true
+          },
+          {
+            "name": "Thailand",
+            "key": "th",
+            "languages": ["en"],
+            "enabled": true
+          }
+        ]
+      }
+    ]
+  }
