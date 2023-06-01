@@ -4,6 +4,7 @@ const app = express()
 const fs = require(`fs`)
 
 const regRouter = require(`./routes/reg-router.js`)
+const elRouter = require(`./routes/el-router.js`)
 
 const PORT = process.env.PORT || 3000;
 
@@ -16,6 +17,7 @@ app.get(`/`, (req,res)=>{
 })
 
 app.use(`/reg`, regRouter)
+app.use(`/elements`, elRouter)
 
 app.use((req,res)=>{
     res.status(404).sendFile(path.join(__dirname+`/public/error.html`))
